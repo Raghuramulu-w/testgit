@@ -1,0 +1,6 @@
+#!/bin/bash
+## this coment
+echo "this is first program"
+echo "hai hello"
+echo "karthik went to school"
+echo "i dropped karthikey to the school"
