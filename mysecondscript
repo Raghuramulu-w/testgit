@@ -5,5 +5,5 @@ PERSON2=RAGHU
 PERSON3=karthik
 echo "$PERSON1 :: hai  $PERSON2 good morning "
 echo "$PERSON2 :: hai $person1 good morning "
-echo "$PERSON1 :: how you dropped $PERSON# "
+echo "$PERSON1 :: how you dropped $PERSON3 "
 echo "$PERSON2 :: i dropped $PERSON3 by car "
