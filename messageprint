@@ -1,0 +1,7 @@
+#!/bin/bash
+PERSON1=$1
+PERSON2=$2
+echo "hai $2
+echo "hai $1
+echo "how are you $2
+echo "iam fine how are you $1
