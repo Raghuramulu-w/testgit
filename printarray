@@ -1,0 +1,5 @@
+#!/bin/bash
+vehicle=("scooty" "byke" "car")
+echo "first type of vehicle is ${vehicle[0]}"
+echo "second type of vehicle is ${vehicle[1]}"
+echo "third type of vehicle is ${vehicle[2]}"
