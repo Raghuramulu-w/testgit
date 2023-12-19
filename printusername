@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "please enter user name"
 read USERNAME
-echo "my user name is $USERNAME
+echo "my user name is $USERNAME"
