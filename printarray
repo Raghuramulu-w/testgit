@@ -4,5 +4,6 @@ vehicle=("$1" "$2" "$3" "$4" "$5" )
 echo "first type of vehicle is  ${vehicle[0]=$vehicle(1)}"
 echo "second type of vehicle is ${vehicle[1]=$vehicle(2)}"
 echo "third type of vehicle is  ${vehicle[2]=$vehicle(3)}"
-echo "all types of vehicles are ${vehicle[3]=$vehicle(4)}"
+echo "fourth types of vehicles is ${vehicle[3]=$vehicle(4)}"
+echo "fifth type os vehicle is ${vehicle[4]=$vehicle(5)}"
 echo "all types of vehicles are ${vehicle[@]=$vehicle}"
