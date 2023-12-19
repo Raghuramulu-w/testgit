@@ -1,6 +1,6 @@
 #!/bin/bash
-vehicle=("$1" "$2" "$3")
-echo "first type of vehicle is  ${vehicle[0]}"
-echo "second type of vehicle is ${vehicle[1]}"
-echo "third type of vehicle is  ${vehicle[2]}"
-echo "all types of vehicles are ${vehicle[@]}"
+vehicle=("$1" "$2" )
+echo "first type of vehicle is  ${vehicle[0]=$vehicle(1)}"
+echo "second type of vehicle is ${vehicle[1]=$vehicle(2)}"
+##echo "third type of vehicle is  ${vehicle[2]}"
+##echo "all types of vehicles are ${vehicle[@]}"
