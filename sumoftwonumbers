@@ -1,8 +1,6 @@
 #!/bin/bash
 echo enter two values
-read -s number1
-read -s number2
-echo "number 1 is $number1"
-echo "number2 is $number2"
+read  number1
+read  number2
 SUM=$(($number1+$number2))
 echo "sum is $SUM"
