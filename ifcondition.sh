@@ -1,7 +1,7 @@
 #!/bin/bash
 NUMBER=$1
 echo "enter number"
-if [ $number -gt 20]
+if [$number -gt 20]
 then 
    echo "number is greater than 20"
    else
