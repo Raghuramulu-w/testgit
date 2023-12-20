@@ -1,7 +1,7 @@
 #!/bin/bash
 NUMBER=$1
 #echo "enter number"
-if [ $number -gt 20 ]
+if [ $NUMBER -gt 20 ]
 then 
 echo "hai"
    echo "number is greater than 20"
